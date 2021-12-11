@@ -12,7 +12,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/PR6/MAIN" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/PR6/TEST" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/7PR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/11PR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/12PR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/13PR" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/8PR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/9PR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PR10" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
